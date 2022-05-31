@@ -93,11 +93,6 @@ textarea[type=hidden] {
   display: none;
 }
 
-section {
-  background-position: 50% 50%;
-  background-repeat: no-repeat;
-  background-size: cover;
-}
 section .mbr-background-video,
 section .mbr-background-video-preview {
   position: absolute;
