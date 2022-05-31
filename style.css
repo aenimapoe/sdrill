@@ -9535,13 +9535,11 @@ body:not(.device-touch) .button.button-full strong {
 	flex-grow: 1;
 	min-width: 0;
 	max-width: 100%;
-	padding: 0 0.75rem;
 }
 
 .fbox-content h3 {
-	font-size: 1rem;
+	font-size: 13px;
 	font-weight: 600;
-	font-family: 'Poppins', sans-serif;
 	text-transform: uppercase;
 	margin-bottom: 0;
 	color: #333;
