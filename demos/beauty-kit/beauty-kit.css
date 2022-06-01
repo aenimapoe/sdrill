@@ -280,7 +280,6 @@
 	}
 
 	.heading-block h2 { font-size: 46px; }
-	#content p,
 	.heading-block ~ p:not(.lead) {
 		font-size: 17px;
 		line-height: 1.6;
