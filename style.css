@@ -9264,15 +9264,15 @@ body:not(.device-touch) .button.button-full strong {
 	border-color: #774F38;
 }
 
-.button-aqua:not(.button-border) { background-color: #40C0CB !important; }
+.button-aqua:not(.button-border) { background-color: #0d6efd !important; }
 .button-3d.button-aqua:hover,
 .button-reveal.button-aqua:hover,
 .button-border.button-aqua:hover,
-.button-border.button-aqua.button-fill::before { background-color: #40C0CB !important; }
+.button-border.button-aqua.button-fill::before { background-color: #0d6efd !important; }
 
 .button-border.button-aqua {
-	color: #40C0CB;
-	border-color: #40C0CB;
+	color: #0d6efd;
+	border-color: #0d6efd;
 }
 
 .button-light.button-lime:not(.button-border) { background-color: #AEE239 !important; }
