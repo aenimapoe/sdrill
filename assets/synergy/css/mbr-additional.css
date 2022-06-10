@@ -110,13 +110,6 @@ body {
 .bg-danger {
   background-color: #ff9966 !important;
 }
-.btn-primary,
-.btn-primary:active {
-  background-color: #6592e6 !important;
-  border-color: #6592e6 !important;
-  color: #ffffff !important;
-  box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.2);
-}
 .btn-primary:hover,
 .btn-primary:focus,
 .btn-primary.focus,
