@@ -6329,7 +6329,7 @@ body:not(.has-plugin-html5video) .video-wrap video {
 
 #page-title.page-title-dark {
 	background-color: #333;
-	text-shadow: 1px 1px 1px rgba(0,0,0,0.1) !important;
+	text-shadow: 1px 1px 1px rgba(0,0,0) !important;
 	border-bottom: none;
 }
 
