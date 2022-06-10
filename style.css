@@ -6298,7 +6298,6 @@ body:not(.has-plugin-html5video) .video-wrap video {
 #page-title span {
 	display: block;
 	margin-top: 10px;
-	font-weight: 300;
 	color: #777;
 	font-size: 1.125rem;
 }
